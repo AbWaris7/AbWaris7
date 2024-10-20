@@ -13,4 +13,5 @@
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AbWaris7/count.svg" />
+  <!--AbWaris--> 
 </p>
