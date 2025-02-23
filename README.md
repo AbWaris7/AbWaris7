@@ -1,4 +1,4 @@
-# Hi there, I'm Waris 👋 Android Software Engineer
+# Hi there, I'm Waris 👋Backend Developer🤙 Java🎯DevOps
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AbWaris7&show_icons=true&theme=radical&hide=contribs,issues&include_all_commits=true" />
